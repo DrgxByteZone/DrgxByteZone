@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,#00f2fe,#4facfe,#6b11ff,#0f172a&height=220&section=header&text=DRGX%20BYTE%20ZONE&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20DRAGON%20KNIGHT%20COMPANY%20%7C%20LEAD%20CYBER%20DEVELOPER%20%E2%9A%A1&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,#00f2fe,#4facfe,#6b11ff,#0f172a&height=240&section=header&text=DRGX%20BYTE%20ZONE&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20DRAGON%20KNIGHT%20COMPANY%20%7C%20CYBER%20ARCHITECT%20%26%20DEVELOPER%20%E2%9A%A1&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DrgxByteZone">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Drgxel+(Mr04);Founder+%26+Lead+Architect+%40+Dragon+Knight+Company;Full+Stack+%2B+Cybersecurity+%2B+Game+Modding+Developer;Creator+of+Next-Gen+Bots%2C+Tools+%26+Network+Engines;%E2%80%9DImagination+takes+you+everywhere.%E2%80%9D+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=750&lines=%3C%2F%3E+Welcome+to+the+Matrix%2C+I'm+Drgxel+(Mr04);%F0%9F%90%89+Founder+%26+Lead+Architect+%40+Dragon+Knight+Company;%E2%9A%A1+Full+Stack+%2B+Cybersecurity+%2B+Game+Modding+Developer;%F0%9F%9A%80+Architecting+Autonomous+Bots%2C+Tools+%26+Game+Engines;%E2%9C%A8+%22Imagination+takes+you+everywhere.%22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
   <a href="https://github.com/DrgxByteZone?tab=repositories">
     <img src="https://img.shields.io/github/stars/DrgxByteZone?label=STARS&style=for-the-badge&logo=star&logoColor=yellow&color=00f2fe&labelColor=0f172a" alt="Stars" />
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20CODING-23c45e?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0f172a" alt="Status" />
+  <img src="https://img.shields.io/badge/DRAGON_CORE-ONLINE-00f2fe?style=for-the-badge&logo=probot&logoColor=00f2fe&labelColor=0f172a" alt="Status" />
 </p>
 
 ---
@@ -34,6 +34,17 @@
   Focus      : Game Server Mods (SA:MP/CEF), Discord Bots, CyberSec Tools
   Motto      : "Logika hanya membawa Anda dari A ke Z, imajinasi membawa Anda ke mana pun."
 ```
+
+---
+
+<div align="center">
+  <h2>🎵 <span style="color:#6b11ff;">Cyberpunk Audio Stream & Coding Soundtrack</span> 🎧</h2>
+  <p><i>Playing: Synthwave / Cyberpunk 2077 Night City Radio • Status: <b>Vibing & Coding</b></i></p>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8A%E2%96%8C%E2%96%88%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8A+NOW+PLAYING%3A+HYPER+%E2%80%94+SPOILER;%E2%96%84%E2%96%88%E2%96%8A%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8C%E2%96%88%E2%96%84%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8C+CODING+MODE%3A+ULTRA+FOCUS+%E2%9A%A1;%E2%96%88%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%84%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8A%E2%96%8C%E2%96%88+DRAGON+KNIGHT+NETWORK+ONLINE" alt="Equalizer Typing" />
+  </p>
+</div>
 
 ---
 
@@ -165,6 +176,6 @@
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,#0f172a,#6b11ff,#4facfe,#00f2fe&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,#0f172a,#6b11ff,#4facfe,#00f2fe&height=130&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
