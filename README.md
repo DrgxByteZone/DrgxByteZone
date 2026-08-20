@@ -38,17 +38,6 @@
 ---
 
 <div align="center">
-  <h2>🎵 <span style="color:#6b11ff;">Cyberpunk Audio Stream & Coding Soundtrack</span> 🎧</h2>
-  <p><i>Playing: Synthwave / Cyberpunk 2077 Night City Radio • Status: <b>Vibing & Coding</b></i></p>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8A%E2%96%8C%E2%96%88%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8A+NOW+PLAYING%3A+HYPER+%E2%80%94+SPOILER;%E2%96%84%E2%96%88%E2%96%8A%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8C%E2%96%88%E2%96%84%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8C+CODING+MODE%3A+ULTRA+FOCUS+%E2%9A%A1;%E2%96%88%E2%96%8E%E2%96%84%E2%96%8C%E2%96%88%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%84%E2%96%8A%E2%96%8E%E2%96%8C%E2%96%88%E2%96%8E%E2%96%8A%E2%96%8C%E2%96%88+DRAGON+KNIGHT+NETWORK+ONLINE" alt="Equalizer Typing" />
-  </p>
-</div>
-
----
-
-<div align="center">
   <h2>🐍 <span style="color:#00f2fe;">Contribution Activity & Commit Snake</span> 🕹️</h2>
   <p><i>Ular pemakan kontribusi commit beranimasi secara real-time melintasi grid GitHub:</i></p>
 
