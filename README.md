@@ -41,7 +41,7 @@
   <h2>🐍 <span style="color:#00f2fe;">Contribution Activity & Commit Snake</span> 🕹️</h2>
   <p><i>Ular pemakan kontribusi commit beranimasi secara real-time melintasi grid GitHub:</i></p>
 
-  <img src="https://raw.githubusercontent.com/DrgxByteZone/DrgxByteZone/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=DrgxByteZone&bg_color=0d1117&color=00f2fe&line=4facfe&point=6b11ff&area=true&hide_border=true'"/>
+  <img src="https://raw.githubusercontent.com/DrgxByteZone/DrgxByteZone/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
 ---
@@ -49,9 +49,7 @@
 <div align="center">
   <h2>📈 <span style="color:#4facfe;">Activity Frequency & Commit Curve</span></h2>
   
-  <a href="https://github.com/DrgxByteZone">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrgxByteZone&bg_color=0d1117&color=00f2fe&line=4facfe&point=6b11ff&area=true&hide_border=true&custom_title=DrgxByteZone%20Commit%20%26%20Contribution%20Frequency" width="100%" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrgxByteZone&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -60,13 +58,13 @@
   <h2>📊 <span style="color:#00f2fe;">Performance Metrics & Analytics</span></h2>
 
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DrgxByteZone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=e0e6ed&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-    &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=DrgxByteZone&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe&sideNums=e0e6ed&sideLabels=4facfe" alt="Streak Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DrgxByteZone&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://streak-stats.demolab.com?user=DrgxByteZone&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DrgxByteZone&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=e0e6ed&langs_count=8" alt="Top Languages" width="380" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DrgxByteZone&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   </p>
 </div>
 
